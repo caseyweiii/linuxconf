@@ -14,6 +14,6 @@
 
 ---
 
-**負責人：** Casey  
-**有問題歡迎聯繫：** casey@2001.com  
-Date：2026/9/16
+**負責人：** Casey 和 Nancy  
+**有問題歡迎聯繫：** casey@2001.com ; nancy@2001.com   
+Date：2026/9/16 16:21
